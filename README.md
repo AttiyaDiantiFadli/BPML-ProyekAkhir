@@ -52,17 +52,6 @@ submission
 
 ---
 
-## **📊 Evaluasi Model**  
-Model telah diuji menggunakan dataset validasi, dengan hasil akurasi sebagai berikut:  
-| Kelas                          | Akurasi (%) |  
-|--------------------------------|------------|  
-| Healthy                        | 96.2%      |  
-| Late Blight                    | 94.8%      |  
-| Septoria Leaf Spot             | 93.5%      |  
-| Tomato Yellow Leaf Curl Virus  | 95.1%      |  
-
----
-
 ## **📊 Kesimpulan**  
 - Model ini dapat mengklasifikasikan penyakit daun tomat dengan tingkat akurasi yang tinggi.  
 - Konversi ke TFLite dan TensorFlow.js memungkinkan model digunakan di berbagai platform.  
