@@ -2,11 +2,11 @@
 
 Proyek ini bertujuan untuk mengklasifikasikan **penyakit pada daun tomat** menggunakan model deep learning berbasis **TensorFlow dan TensorFlow Lite (TFLite)**. Model yang dikembangkan mampu mengenali beberapa jenis penyakit umum pada tanaman tomat berdasarkan citra daun yang diberikan.  
 
-## ** Kelas yang di gunakan**  
- **Healthy** *(Sehat)*  
- **Late Blight** *(Hawar Lambat)*  
- **Septoria Leaf Spot** *(Bercak Daun Septoria)*  
- **Tomato Yellow Leaf Curl Virus** *(Virus Kuning Keriting Daun Tomat)*  
+## **Kelas yang digunakan**  
+ - **Healthy** *(Sehat)*  
+ - **Late Blight** *(Hawar Lambat)*  
+ - **Septoria Leaf Spot** *(Bercak Daun Septoria)*  
+ - **Tomato Yellow Leaf Curl Virus** *(Virus Kuning Keriting Daun Tomat)*  
 ---
 
 ## **💡 Cara Menjalankan**  
