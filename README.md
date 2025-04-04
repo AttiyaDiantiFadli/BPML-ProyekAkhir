@@ -1,6 +1,6 @@
-# **Klasifikasi Penyakit Daun Tomat 🍅🌿**  
+# **Klasifikasi Gambar Daun Tomat 🍅🌿**  
 
-Proyek ini bertujuan untuk mengklasifikasikan **penyakit pada daun tomat** menggunakan model deep learning berbasis **TensorFlow dan TensorFlow Lite (TFLite)**. Model yang dikembangkan mampu mengenali beberapa jenis penyakit umum pada tanaman tomat berdasarkan citra daun yang diberikan.  
+Proyek ini bertujuan untuk mengklasifikasikan **gambar pada daun tomat** menggunakan model deep learning berbasis **TensorFlow dan TensorFlow Lite (TFLite)**. Model yang dikembangkan mampu mengenali beberapa jenis umum pada tanaman tomat berdasarkan citra daun yang diberikan.  
 
 ## **Kelas yang digunakan**  
  - **Healthy** *(Sehat)*  
