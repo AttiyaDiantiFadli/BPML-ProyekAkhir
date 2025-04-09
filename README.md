@@ -1,12 +1,12 @@
-# **Klasifikasi Gambar Daun Tomat 🍅🌿**  
+# **Klasifikasi Hewan 🐔🐶🕷️**
 
-Proyek ini bertujuan untuk mengklasifikasikan **gambar pada daun tomat** menggunakan model deep learning berbasis **TensorFlow dan TensorFlow Lite (TFLite)**. Model yang dikembangkan mampu mengenali beberapa jenis umum pada tanaman tomat berdasarkan citra daun yang diberikan.  
+Proyek ini bertujuan untuk mengklasifikasikan **gambar hewan** ke dalam tiga kategori utama menggunakan model deep learning berbasis **MobileNetV2** dan pendekatan **transfer learning**. Model ini dilatih untuk mengenali tiga jenis hewan berdasarkan citra visual:
 
-## **Kelas yang digunakan**  
- - **Healthy** *(Sehat)*  
- - **Late Blight** *(Hawar Lambat)*  
- - **Septoria Leaf Spot** *(Bercak Daun Septoria)*  
- - **Tomato Yellow Leaf Curl Virus** *(Virus Kuning Keriting Daun Tomat)*  
+## **🧾 Kelas yang Digunakan**
+- **Ayam (Gallina)**  
+- **Anjing (Cene)**  
+- **Laba-laba (Ragno)**
+  
 ---
 
 ## **💡 Cara Menjalankan**  
